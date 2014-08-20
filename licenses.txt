@@ -1,0 +1,31 @@
+List of Open Source license dependencies:
+
+Linux SBC:
+BeagleBone Black http://beagleboard.org/black, http://creativecommons.org/licenses/by-sa/3.0/
+Debian https://www.debian.org/legal/licenses/ (this link includes a list of licenses contained in Debian main)
+
+Adafruit:
+NeoPixel https://github.com/adafruit/Adafruit_NeoPixel GPL 3.0 https://github.com/adafruit/Adafruit_NeoPixel/blob/master/COPYING
+TFTLCD-Library https://github.com/adafruit/TFTLCD-Library MIT license  https://github.com/adafruit/TFTLCD-Library/blob/master/README.txt
+Adafruit-GFX-Library   https://github.com/adafruit/Adafruit-GFX-Library BSD License https://github.com/adafruit/Adafruit-GFX-Library/blob/master/license.txt
+
+LowPowerLab:
+Moteino  https://github.com/LowPowerLab/Moteino, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+DualOptiboot https://github.com/LowPowerLab/DualOptiboot, GPL 3.0 https://github.com/LowPowerLab/DualOptiboot/blob/master/License.txt
+SPIFlash https://github.com/LowPowerLab/SPIFlash, GPL 2 https://github.com/LowPowerLab/SPIFlash/blob/master/README.md
+RFM69 https://github.com/LowPowerLab/RFM69 GPL 3.0 https://github.com/LowPowerLab/RFM69/blob/master/License.txt
+
+Arduino library dependencies:
+http://www.arduino.cc/  Libraries: http://arduino.cc/en/Main/FAQ  LGPL https://www.gnu.org/licenses/lgpl.html
+
+Festival: http://www.cstr.ed.ac.uk/projects/festival/  X11-type licence http://www.cstr.ed.ac.uk/projects/festival/
+
+CMU: http://cmusphinx.sourceforge.net/2012/12/new-release-sphinxbase-0-8-pocketsphinx-0-8-and-sphinxtrain-0-8/
+Sphinxbase https://github.com/cmusphinx/sphinxbase  CMU simplified BSD license https://github.com/cmusphinx/sphinxbase/blob/master/LICENSE
+pocketsphinx   CMU simplified BSD license  https://github.com/cmusphinx/pocketsphinx/blob/master/COPYING
+
+Phonetisaurus https://code.google.com/p/phonetisaurus/, BSD 3-Clause, http://opensource.org/licenses/BSD-3-Clause
+OpenFst http://www.openfst.org/twiki/bin/view/FST/WebHome  Apache license http://www.openfst.org/twiki/bin/view/FST/DistCopying
+MITLM https://code.google.com/p/mitlm/ MIT License http://opensource.org/licenses/mit-license.php
+
+Python https://www.python.org/ PSF LICENSE AGREEMENT https://docs.python.org/2/license.html
