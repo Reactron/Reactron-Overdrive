@@ -1,3 +1,10 @@
+Reactron Overdrive Licensure
+
+Files in this repository are released according to CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+Attribution to Kenji Larsen
+
+
+
 List of Open Source license dependencies:
 
 Linux SBC:
